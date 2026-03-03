@@ -7,13 +7,14 @@
  
  _I'm a software developer in training._
  
-_I'm currently working on a ATM simulator and I'm currently learning Python as well_
+_I'm currently working on a ATM simulator_
+_I'm currently learning Python as well_
  
  ## Interesting facts 
  
  _I have many interest but I'm really passionate about cooking and reading_
  
- ## Fun fact 
+ ## Fun fact:
  
  
  _Did you know that I'm afraid to insects?_
